@@ -1,0 +1,23 @@
+body {
+    background-color: #000000;
+    margin: 0;
+}
+#ListadePlayers{
+
+    background-color: #003cb2;
+    right: 10px;
+    bottom: 50px;
+}
+
+#ListadeSalas{
+    background-color: #003cb2;
+    bottom: 50px;
+}
+
+.boxInfo{
+    width: 300px;
+    color: #ffffff;
+    padding: 5px;
+    border-radius: 5px;
+    position: fixed;
+}
